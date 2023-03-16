@@ -550,6 +550,36 @@ a {
 	color: #daa106;
 	text-decoration: none;
 }
+.btn-text1{
+	font-size: 13px;
+	color: #fff;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+	line-height: 60px !important;
+	border: 2px solid white;
+	padding: 0 40px;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	display: inline-block;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background: lightblue;
+	min-width: 172px;
+	height: 60px;
+	text-align: center;
+	-webkit-transition: all 0.2s linear 0s !important;
+	-moz-transition: all 0.2s linear 0s !important;
+	-ms-transition: all 0.2s linear 0s !important;
+	-o-transition: all 0.2s linear 0s !important;
+	transition: all 0.2s linear 0s !important;
+
+}
+.btn-text1:hover {
+	background: none;
+	color: white;
+	text-decoration: none;
+}
 .icon-box {
 	width: 80px;
 	height: 80px;
@@ -2060,6 +2090,12 @@ form label.error {
 	-webkit-background-size: cover;
 	background-size: cover;
 }
+.bg-img-training {
+	background: url(../images/hosting-slide4.png) 0 0 no-repeat;
+	height:400px;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
 .overlay-before:before {
 	content: '';
 	width: 517px;
@@ -2738,6 +2774,7 @@ form label.error {
 	position: relative;
 	table-layout: fixed;
 	width: 100%;
+	margin-top:-42%;
 	border-spacing: 0;
 	border-collapse: collapse
 }
