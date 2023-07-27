@@ -108,14 +108,14 @@
     </head>
     <body>
         <div class="logo">
-            <a href="index.html"><img src="assets/images/logo.png" alt="Mega business"></a>
+            <a href="index.php"><img src="assets/images/logo.png" alt="Mega business"></a>
         </div>
         
         <div class="popup">
             <img src="assets/images/tick.png" alt="">
             <h2>Thank You!</h2>
             <p><b>Yours details has been successfully submitted. Thanks</b></p>
-            <button type="OK" class="OKbtn"><a href="trainingprogram.html">OK</a></button>
+            <button type="OK" class="OKbtn"><a href="trainingprogram.php">OK</a></button>
         </div>
         
         </div>
