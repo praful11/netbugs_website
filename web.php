@@ -90,7 +90,7 @@
                 <div class="row">
                     <div class="col-sm-3 col-md-5">
                         <div class="logo">
-                            <a href="index.php"><img src="assets/images/logo1.png" alt="Mega business"></a>
+                            <a href="index.php"><img src="assets/images/logo.png" alt="Mega business"></a>
                         </div>
                         <button id="menu" class="menu visible-xs"></button>
                     </div>

@@ -82,7 +82,7 @@
 					<div class="row">
 						<div class="col-sm-3 col-md-5">
 							<div class="logo">
-								<a href="index.php"><img src="assets/images/logo1.png" alt="Mega business"></a>
+								<a href="index.php"><img src="assets/images/logo.png" alt="Mega business"></a>
 							</div>
 							<button id="menu" class="menu visible-xs"></button>
 						</div>
@@ -372,7 +372,12 @@
 									<a href="mailto:business@support.com"><i class="ion-ios-email fa-icons"></i>sales@netbugs.co.in</a>
 								</li>
 								<li>
-									<a><i class="ion-ios-telephone fa-icons"></i>+91 986 016 7888</a>
+									<a><i class="ion-ios-telephone fa-icons"></i>  <li>
+                                <a><i class="ion-ios-telephone fa-icons"></i> +91 84110 39209 </a>
+                            </li>
+                            <li>
+                                <a><i class="ion-ios-telephone fa-icons"></i> HR +91 8999536890 </a>
+                            </li></a>
 								</li>
 							</ul>
 							<div class="icons-hover-black">
