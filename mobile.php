@@ -195,10 +195,10 @@
                     <div class="col-md-4 col-sm-4 col-xs-12 mb-sm-30">
                         <h4 class="mb-30">CONTACT US</h4>
                         <address>
-                        <i class="ion-ios-location fa-icons"></i> Nagpur :- Sevadal Nagar,
-								 Opposite to Indian Bank Lane,
-								 Besa Road,  Manewada,
-								 Nagpur - 440018
+                        <i class="ion-ios-location fa-icons"></i> Nagpur :- Plot No 91 Santaji Society,
+                         Near Water ATM, 
+                         Manish Nagar Nagpur 440015
+
                         </address>
                         <address>
                             <i class="ion-ios-location fa-icons"></i> Pune Office:- Ramnagar Society, 101,
