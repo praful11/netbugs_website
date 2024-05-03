@@ -217,6 +217,9 @@
                             <li>
                                 <a><i class="ion-ios-telephone fa-icons"></i>+91 986 016 7888</a>
                             </li>
+                            <li>
+                                   <a><i class="ion-ios-telephone fa-icons"></i> HR +91 8999536890 </a>
+                             </li>
                         </ul>
                         <div class="icons-hover-black">
                             <a href="https://www.facebook.com/netbugssolution/"> <i class="fa fa-facebook"></i> </a><a
